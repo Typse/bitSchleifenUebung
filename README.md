@@ -17,8 +17,9 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
-### Rekursive Methoden
+### Schleifen und Bitshifting
 
-**Aufgabe 2: Rekursive Fakultätsberechnung**
-- Implementiere eine rekursive Methode, um die Fakultät einer Zahl zu berechnen.
-- Die Methode sollte eine ganze Zahl als Eingabe nehmen und das Ergebnis zurückgeben.
+**Aufgabe 1: Zählen mit Schleifen und Bitshifting**
+- Schreibe ein Programm, das die Zahlen von 1 bis 100 zählt.
+- Für jede Zahl soll das Programm überprüfen, ob sie ein Vielfaches von 4 ist. 
+- Wenn ja, soll die Zahl mit einem einfachen Bitshifting um zwei Stellen nach links verschoben werden und das Ergebnis ausgegeben werden.
